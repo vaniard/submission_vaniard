@@ -29,19 +29,19 @@ Untuk memastikan Python sudah terinstall, jalankan :
 python --version
 ```
 
-2️⃣ Install Library yang Dibutuhkan :
+2️⃣ Install Library yang Dibutuhkan <br>
 Masuk ke folder proyek, lalu jalankan perintah berikut untuk menginstal semua dependensi : 
 ```bash
 streamlit run dashboard.py
 ```
 
-🌐 Akses Dashboard :
+🌐 Akses Dashboard <br>
 Setelah berhasil dijalankan, dashboard akan otomatis terbuka di browser.
 Anda juga dapat mengaksesnya melalui :
 - **Local URL** : http://localhost:8501
 - **Network URL** : http://192.168.100.30:8501
 
-📊 Fitur Dashboard : 
+📊 Fitur Dashboard <br> 
 - Visualisasi tren penyewaan sepeda
 - Analisis berdasarkan musim, cuaca, dan hari
 - Insight pola penggunaan harian dan bulanan
